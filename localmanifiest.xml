@@ -3,7 +3,7 @@
   
   <project name="JefersonProject/android_device_motorola_nicklaus" path="device/motorola/nicklaus" remote="github" revision="cm-14.1" />
   <project name="JefersonProject/android_kernel_motorola_mt6735" path="kernel/motorola/mt6735" remote="github" revision="cm-14.1_nicklaus" />
-  <project name="JefersonProject/android_device_mediatek_common" path="device/mediatek/common" remote="github" revision="cm-14.1" / >  
+  <project name="JefersonProject/android_device_mediatek_common" path="device/mediatek/common" remote="github" revision="cm-14.1" />  
   <project name="JefersonProject/proprietary_vendor_motorola" path="vendor/motorola/nicklaus" remote="github" revision="cm-14.1" />
   
 </manifest>
